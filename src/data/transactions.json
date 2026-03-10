@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f6fe6bfa-eea1-4a12-9a1f-5beac9695c2c",
+    "type": "expense",
+    "category": "Food",
+    "amount": 50,
+    "date": "2026-03-10"
+  },
+  {
+    "id": "e0b622a1-c32b-48d7-bf69-f3f1e9f720b6",
+    "type": "expense",
+    "category": "Food",
+    "amount": 50,
+    "date": "2026-03-10"
+  }
+]
